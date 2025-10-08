@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Santiago  
 
-**MBA Candidate | Industrial Engineer** passionate about innovation at the intersection of technology and impact.  
+**MBA | Industrial Engineer** passionate about innovation at the intersection of technology and impact.  
 
 ## 🔧 Tech Stack  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -8,14 +8,12 @@
 ![Stata](https://img.shields.io/badge/Stata-BC1205?style=for-the-badge&logo=stata&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
 
 ## 👨‍💻 About Me  
 - 🎓 MBA Candidate at **INSEAD** | Dean's List & Ryoichi Sasakawa Young Leaders Scholar  
 - 🔧 Industrial Engineer from **Universidad de Los Andes** | MSc in Management from **Bocconi University**  
 - 🌱 Currently learning **Data Science** to enhance data-driven decision-making capabilities  
-- 🌍 Global mindset: lived in 6 countries, traveled to 46  
 - 💼 Experience in program management, agtech platforms, and sustainability initiatives  
 - 🌿 Passionate about biodiversity, sustainability, and impact investment  
 - 💬 Fluent in Spanish & English | Intermediate Portuguese & Italian | Basic French  
